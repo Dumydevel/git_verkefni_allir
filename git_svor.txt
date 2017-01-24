@@ -18,3 +18,5 @@
 	a) git diff  											git diff sýnir breytingar milli vinnandi tré og commits
 	b) git diff --staged 									git diff --staged sýnir líka breytingar
 	c) git diff commit1 commit2								sýnir breytingar mill eina marga eða alla files
+
+4. 	Hvað er útgáfustýring (e.version control)? control
