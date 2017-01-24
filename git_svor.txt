@@ -20,3 +20,5 @@
 	c) git diff commit1 commit2								sýnir breytingar mill eina marga eða alla files
 
 4. 	Hvað er útgáfustýring (e.version control)? control
+
+5.	Hverjir eru helstu kostir við að nota GIT? git getur rekið breytingar í tölvuskrám og er heslt notað fyrir software develoment
