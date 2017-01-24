@@ -26,3 +26,5 @@
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? fer eftir 
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? "working directory er það sem þú ert í" "repository er geymsla" "Staging are er svæði sem þú tekur á móti files"
+
+8.	Hvenær er sniðugt að nota greinar (branches)? þegar þú býr til folders sem er með files í
