@@ -13,3 +13,8 @@
 	git status= sýnir vinnandi tré stöðuna
 	git diff= sýnir breytingar milli vinnandi tré og commits
 	git checkout= updatar brances 
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff  											git diff sýnir breytingar milli vinnandi tré og commits
+	b) git diff --staged 									git diff --staged sýnir líka breytingar
+	c) git diff commit1 commit2								sýnir breytingar mill eina marga eða alla files
