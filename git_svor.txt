@@ -24,3 +24,5 @@
 5.	Hverjir eru helstu kostir við að nota GIT? git getur rekið breytingar í tölvuskrám og er heslt notað fyrir software develoment
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? fer eftir 
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? "working directory er það sem þú ert í" "repository er geymsla" "Staging are er svæði sem þú tekur á móti files"
